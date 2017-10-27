@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "inside gitpush";
-        echo "new git push ... these are new lines of git .. see what can we do now"
+        echo "new git push ... these are new lines of git .. see what can we do now";
         ?>
     </body>
 </html>
